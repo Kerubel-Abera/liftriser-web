@@ -1,9 +1,1 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.liftriser.liftriser",
-    "sha256_cert_fingerprints":
-    ["D3:67:78:D0:E3:2E:95:86:EF:CE:72:8F:D1:93:A3:C6:D8:FD:9E:C6:5F:F7:8F:F7:6E:2F:02:2B:C5:B2:7D:34"]
-  }
-}]
+
