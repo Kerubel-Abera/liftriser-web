@@ -1,10 +1,11 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "5DMKQ4XB48.com.liftriser.liftriser",
-        "paths": [ "/*" ]
+        "appIDs": ["A88PY86ZZP.com.liftriser.liftriser"],
+        "components": [
+          { "/": "/*" }
+        ]
       }
     ]
   }
